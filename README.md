@@ -32,88 +32,53 @@ This project implements an intelligent Q&A chat agent that can answer questions 
 
 ### Workflow Process
 
-1. **Question Input**
-   - User submits a question through the command-line interface
+```
++----------------+     +----------------+     +----------------+
+|  User Question | --> | Topic Extraction| --> | Topic Routing  |
++----------------+     +----------------+     +----------------+
+                                                      |
+                                              +-------+-------+
+                                              |               |
+                                              v               v
+                                      +-------------+ +----------------+
+                                      |   "Other"   | | Specific Topic |
+                                      +-------------+ +----------------+
+                                              |               |
+                                              v               v
+                                      +-------------+ +----------------+
+                                      | Generate    | | Extract Context|
+                                      | General     | +----------------+
+                                      | Answer      |         |
+                                      +-------------+         v
+                                                      +----------------+
+                                                      | Generate       |
+                                                      | Topic-specific |
+                                                      | Answer         |
+                                                      +----------------+
+```
+
+The workflow follows these steps:
+
+1. **User Question Input**
+   - User submits a question through the interface
 
 2. **Topic Extraction**
-   - The system extracts the main topic from the question
-   - Uses the `extract_topic` tool to identify the relevant context
+   - System analyzes the question to identify the main topic
+   - Uses the `extract_topic` tool to determine the context
 
-3. **Routing**
-   - Based on the extracted topic, the question is routed to either:
-     - General Q&A handler
-     - Topic-specific Q&A handler
+3. **Topic Routing**
+   - Based on the extracted topic, the system routes to one of two paths:
+     - If topic is "Other": Proceeds to generate a general answer
+     - If topic is specific: Extracts relevant context and generates a topic-specific answer
 
 4. **Answer Generation**
-   - For general questions: Uses `generate_general_answer`
-   - For topic-specific questions: Uses `generate_qa_answer` with relevant context
+   - For general questions: Uses `generate_general_answer` to provide a response
+   - For topic-specific questions: 
+     1. Extracts relevant context from the appropriate store
+     2. Uses `generate_qa_answer` to create a response based on the context
 
-
-```
-Agent Structure
-==============
-
-+------------------------+
-|      Main (main.py)    |
-+------------------------+
-           |
-           v
-+------------------------+
-|   AgentWorkflow Class  |
-+------------------------+
-           |
-    +------+------+
-    |             |
-    v             v
-+--------+   +----------------+
-|  Model |   | Context Stores |
-+--------+   +----------------+
-                  |
-        +---------+---------+
-        |         |         |
-        v         v         v
-+------------+ +--------+ +--------+
-| Activities | | Company| |  ESTA  |
-+------------+ +--------+ +--------+
-        |         |         |
-        v         v         v
-+------------+ +--------+ +--------+
-|    ETA     | |Packlist| |  A-Z   |
-+------------+ +--------+ +--------+
-        |         |         |
-        v         v         v
-+------------+ +--------+ +--------+
-|    Spa     | |  WiFi  | | Others |
-+------------+ +--------+ +--------+
-```
-
-```
-Workflow Process
-===============
-
-+----------------+     +----------------+     +----------------+
-|  User Question | --> | Topic Extraction| --> |    Routing     |
-+----------------+     +----------------+     +----------------+
-                                                      |
-                                              +-------+-------+
-                                              |               |
-                                              v               v
-                                      +-------------+ +----------------+
-                                      | General Q&A | | Topic-specific |
-                                      +-------------+ |      Q&A       |
-                                              |       +----------------+
-                                              |               |
-                                              v               v
-                                      +-------------+ +----------------+
-                                      |   Answer    | |    Answer      |
-                                      +-------------+ +----------------+
-                                              |               |
-                                              +-------+-------+
-                                                      |
-                                              +----------------+
-                                              | Final Response |
-                                              +----------------+
-```
+5. **Response Delivery**
+   - The generated answer is returned to the user
 
 ## Context Files Structure
 
