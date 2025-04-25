@@ -1,0 +1,161 @@
+Guide to apply for the ESTA visa for entry into the USA:
+Instructions for applying for the electronic travel authorization (ESTA) for the USA
+Before entering the USA, all travelers must obtain an electronic travel authorization (ESTA). The ESTA
+currently costs $21 (as of February 2024) (approx. EUR 20.00) and is available on the official website:
+https://esta.cbp.dhs.gov/ directly to the CBP (border authority).
+Payment is made by credit card or PayPal.
+We recommend submitting the application as early as possible, but no later than 72 hours before departure for the USA, and not using
+any other VISA provider to ensure that the application and approval process runs smoothly.
+Please check in advance whether your passport is still valid for at least 6 months after your return from the USA. If you
+have an existing and valid ESTA travel authorization, you do not need to apply for a new one.
+You will need the following documents for the application:
+▪ Passport and identity card
+▪ Credit card or PayPal access data
+▪ Contact details of your emergency contact and your employer
+After receiving your ESTA authorization, please print it out and keep it in your hand luggage together with
+your passport for entry and at the end of your trip for the border authorities.
+If you have been in Cuba with your current passport on or after January 12, 2021, please contact us by phone
+at +49 791 49 380 162 or by e-mail at
+clubreisen@marbet.com to contact us.
+STEP BY STEP INSTRUCTIONS
+All information is subject to change. After each step, you can pause via [SAVE AND CLOSE] and complete the application
+within 7 days.
+Create new application
+1. You can change the language to [GERMAN] at the top right.
+2. Click on [CREATE NEW APPLICATION].
+3. Have you already started filling out your ESTA? Then click on [CONTINUE PROCESSING EXISTING APPLICATION].
+Then select who you are filling out the ESTA for:
+individual person [INDIVIDUAL APPLICATION]
+Security Notification, Waiver and Travel Promotion Act of 2009
+Please read and acknowledge the Security Notification, Waiver and Travel Promotion Act of 2009 by clicking on
+[Yes, I have read and understood this information and hereby agree to these terms and conditions]. Continue with
+[NEXT]
+SECURITY NOTIFICATION
+You are about to gain access to a Department of Homeland Security computer system. This
+computer system and the data contained therein are the property of the U.S. Government and
+are provided for the purposes of official information and official use by the U.S. Government. In
+the course of using this computer system, you have no expectation that your privacy will be
+protected.
+unauthorized use or modification of the system or the data contained therein, or
+Title 18 of the U.S. Criminal Code or other criminal statutes. All persons who access a federal
+computer system without authorization or who are authorized to do so.
+or in any form whatsoever, make it your own, alter it, damage it, destroy it or
+Computer system rvIrd monitored for administrative purposes, police larbei\ criminal investigation
+purposes, tracing of alleged misconduct or abuse, and to ensure the appropriate performance of the
+respective €ic herheitsch arakterlst Ika and incidents
+Waiver
+The Electronic Travel Authorization System performs checks against police databases. All travelers wishing to obtain a travel authorization to the United States under the Visa Waiver Program must
+have obtained an electronic travel authorization using this system before boarding a "ransportmltteT.
+If your electronic application for travel authorization has been granted, this confirms the fact that you may travel, but does not confirm the fact that you may enter the United States under the visa
+waiver program. Upon your arrival in the United States, you will be inspected at your point of entry by a U.S. Customs and Border Protection Office, which may decide not to admit you under
+the Visa Waiver Program for any reason under the laws of the United States
+The decision that you are not eligible for electronic travel authorization does not prevent you from applying for a travel visa to the United States.
+All information provided by you or on your behalf by a designated third party must be true and accurate. Electronic travel authorizations may be revoked at any time and for any reason, such as
+new information affecting the oualification. If you knowingly and intentionally make materially false, fictitious or fraudulent statements or claims in an electronic application for travel authorization
+submitted by you or on your behalf, you will be subject to revocation.
+Administrations or criminal penalties.
+WARNING: If, in the course of your application for entry into the United States under the Visa Waiver ProgramP ) , you have been cleared for entry by a U.S.
+Customs and Border Protection officer at any point of entry, you will not be permitted to accept unauthorized employment, attend school or represent foreign information technology+r4s media during
+your visit under the aforementioned program. You are also prohibited from applying for 1) a change to nonimmigrant status, 2) an extension of stay, or 3) adjustment of status to temporary or
+permanent unless you qualify under Section 2°5(c)(4) of the Immigration and Nationality Act. Any violation of this condition will result in your .
+Please indicate that you have read and understood the above information.
+/*" him e P 200
+On March 2010, President Obama signed the Travel Promotion Act {TPA) at 2004, Pub. L. No. 111-145. The Act directs the Department of Homeland
+Security to establish a fee for the use of the ESTA system. Under the Further Consolidated Apprognation s Act, 2020 (PL 11ö-94), the fee for the ESTA application was increased to $21. dle
+consists of $817 00 for each MP applicant who obtains a travel authorization to the United States. and S .00 for processing the ESTA application. Applicants who are denied authorization to
+enter the U.S. under the MP will only be charged S°.OO. The fee can only be paid by credit card or PayPal. Applicants can save the application data and return to the application at a later date to
+enter the payment information. However, the application will then be processed.
+¥/RNNOTICE: The fee will be charged via credit card or PayPal. It is therefore wiclTgg that all applicants enter their ESTA and payment information correctly. If
+information is entered incorrectly, applicants may incur additional fees for a new application. However, updates to existing applications are not subject to additional fees. Applicants who do not
+complete the payment process will not be authorized to travel to the United States and will not be permitted to board aircraft or vessels bound for the United States if
+applicants stop payment of the fee. their respective travel authorization to the United States will be revoked CBP is not liable
+for any additional fees that may be charged by the applicant or by Pay-al He transaction. By submitting the application button in the application process, applicants agree that they will not
+dispute any of the administrative fees charged by CBP for use of the ESTA system, and they further acknowledge that there will be no refunds.
+Please indicate that you have read and understood the above information:
+@ Yes. I have read and understood this information and hereby agree to these terms and conditions.
+EXIT
+Upload passport
+Please upload a picture of your passport - by clicking on [UPLOAD YOUR PASS].
+Please note that the machine-readable part of the passport in particular must be clearly legible and in focus. After
+uploading, you can adjust the data manually if necessary.
+Check and confirm
+After successfully uploading the passport, please check and confirm the automatically transferred data. Please make
+sure that all data has been transferred correctly.
+Applicant / Passport information
+Please check once again that all data is correct and exactly as stated in your passport
+also add missing data, please note the following information:
+• Double names such as "Meyer-Müller" must always be hyphenated
+• First names that contain a hyphen, such as "Torben-Hendrik", must also be adopted accordingly
+• If you have more than one first name without a hyphen, only the first name mentioned in your passport must be given
+• Please display umlauts such as Ä, Ö, Ü or ß as in the machine-readable part
+• Passport numbers consist of a combination of letters and numbers. Particular care must be taken with the letter O
+and the number 0 as well as the letter I and the number 1.
+Other citizenship / nationality
+Please indicate whether you have or have ever had another nationality and enter your e-mail address. Then continue
+with [NEXT].
+Confirmation of the data
+Please confirm once again that your surname, first name, passport number and date of birth are correct.
+Code input
+You will receive a 4-digit code by e-mail, which you enter in the following window and confirm with [ENTER CODE].
+Enter personal data
+Please state whether you are known under any other names (e.g. stage names) and whether you have ever held a passport or identity
+card from another country.
+Social media
+Only optional to fill in.
+GE/NEXUS/SENTRI membership
+Please select [NO].
+Parents
+Please enter the names of your parents.
+Information about your professional career
+Please indicate whether you currently have an employer and enter the information.
+Travel information
+Please click [NO] when asked if you are in transit.
+Indicate your location in the USA. Please enter the data of the ship:
+1) Name: M.V. Scenic Eclipse
+2) Address: 4000 Hollywood Blvd - Apartment No. Suite 625
+3) City: Hollywood
+4) State: Florida
+5) Country code: USA (+1)
+6) Telephone number: 857-837-0373
+Please select [YES] for "ADDRESS DURING YOUR STAY IN THE USA" to confirm that the above information can be transferred.
+Emergency contact
+Please enter an emergency contact at home and click [NEXT]:
+a) Surname and first name
+b) E-mail address
+c) Country code and telephone number without "0"
+Questions regarding eligibility to participate
+You will be asked whether you pose a security risk to the USA. Please note that answering YES/NO may result in the application
+being rejected. Please answer the questions truthfully.
+Waiver of rights
+You confirm the accuracy of your details and your consent to the processing of the data you have provided. If you are filling out the
+form for another person, please check the box "Exclusively for third parties".
+Then continue with [NEXT]
+Check your application
+Check your data again very carefully. Subsequent changes are no longer possible. With
+Click on [EDIT] to adjust your data one last time. Select [CONFIRM AND CONTINUE] when all information is correct.
+The last step is to enter your passport number, country of issue, surname and date of birth. Then click on [NEXT] to complete the
+form.
+Payment
+Now the payment of the application follows. Click on the box next to [DECLARATION OF PAYMENT] and confirm with [PAY
+NOW]. You will then be asked whether you would like to pay by credit card or PayPal. You must enter your payment details or you
+will be redirected to the PayPal website. After successfully completing the payment, you will receive an overview of your
+application,
+which you can print or save.
+You do not need to have your own credit card. You can also use a family member's or friend's credit card for payment.
+E-mail confirmation
+After your application has been approved, you will receive an email. Please then go back to the original website
+https://esta.cbp.dhs.gov/ and change the language to [GERMAN] in the top right-hand corner.
+Status
+Click on [CHECK ESTA STATUS], select [CHECK INDIVIDUAL STATUS] or [CHECK GROUP STATUS].
+If you have not received an e-mail, you can also check the status this way.
+Retrieve individual application
+Enter your passport number and date of birth as well as your order number and click [CALL APPLICATION]. If you have
+misplaced these, you can also enter the following data on the right:
+• Nationality
+• Date of issue of your passport
+• Validity of your passport
+Your approved ESTA
+You will be shown your approved ESTA, which you should print out and save.
+We ask you to keep this printout in your hand luggage together with your passport for your flight, check-in
+on board and at the end of your journey for the border authorities.
+The ESTA travel authorization is valid for up to two years after it is issued.

@@ -1,0 +1,44 @@
+WI-FI GUIDE
+
+General Information:
+- The Wi-Fi network name (SSID) for guests is: **Scenic Guest**
+- The password for access is: **Spaceship1**
+- Internet access is provided for free to all guests.
+- Please follow the device-specific instructions below to ensure successful connection.
+- Note: MAC address settings may affect connectivity, especially on modern smartphones. Be sure to follow all steps to avoid issues.
+
+ANDROID SMARTPHONE
+
+Step-by-step:
+1. Open your device’s **Settings** and go to **Wi-Fi** or **WLAN** settings.
+2. From the list of available networks, tap on **Scenic Guest**.
+3. Enter the Wi-Fi password: **Spaceship1** and confirm.
+4. Once connected, scroll to the **MAC address type** option.
+5. Select **Phone MAC** instead of **Randomized MAC** to ensure consistent access.
+6. You should now be successfully connected to the Wi-Fi network.
+
+Troubleshooting:
+- If the connection fails, try forgetting the network and repeating the steps.
+- Make sure airplane mode is off and mobile data is not interfering with the connection.
+
+APPLE iOS SMARTPHONE (iPhone)
+
+Step-by-step:
+1. Go to your iPhone’s **Settings** > **Wi-Fi**.
+2. Select **Scenic Guest** from the list of available networks.
+3. Enter the Wi-Fi password: **Spaceship1** and confirm.
+4. Tap the small **blue "i" (info)** icon next to Scenic Guest.
+5. Deactivate **Private Wi-Fi Address** (this ensures proper device identification).
+6. Tap **Next**, then exit the settings screen.
+7. You should now be connected to the Wi-Fi.
+
+Troubleshooting:
+- Forget and re-join the network if you encounter issues.
+
+Support:
+- For continued issues, visit the **Spa Reception** or contact Guest Services.
+- Staff are happy to assist with Wi-Fi access on any device.
+
+Security Tip:
+- Always ensure you are connecting to the official **Scenic Guest** network.
+- Avoid entering personal credentials or sensitive data on unsecured pages.
